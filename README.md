@@ -1,5 +1,5 @@
 # PortfolioWebpage
 ## github pages:
-https://arimohy.github.io/PortalofioWebpage/
+https://arimohy.github.io/PortafolioWebpage/
 ## codepen.io: 
 https://codepen.io/Yhomira/pen/zYwJwgR
